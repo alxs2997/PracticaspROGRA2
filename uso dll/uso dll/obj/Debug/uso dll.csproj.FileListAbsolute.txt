@@ -1,0 +1,9 @@
+c:\users\alumnos\documents\visual studio 2015\Projects\uso dll\uso dll\bin\Debug\uso dll.exe.config
+c:\users\alumnos\documents\visual studio 2015\Projects\uso dll\uso dll\bin\Debug\uso dll.exe
+c:\users\alumnos\documents\visual studio 2015\Projects\uso dll\uso dll\bin\Debug\uso dll.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\uso dll\uso dll\obj\Debug\uso dll.csprojResolveAssemblyReference.cache
+c:\users\alumnos\documents\visual studio 2015\Projects\uso dll\uso dll\obj\Debug\uso_dll.Form1.resources
+c:\users\alumnos\documents\visual studio 2015\Projects\uso dll\uso dll\obj\Debug\uso_dll.Properties.Resources.resources
+c:\users\alumnos\documents\visual studio 2015\Projects\uso dll\uso dll\obj\Debug\uso dll.csproj.GenerateResource.Cache
+c:\users\alumnos\documents\visual studio 2015\Projects\uso dll\uso dll\obj\Debug\uso dll.exe
+c:\users\alumnos\documents\visual studio 2015\Projects\uso dll\uso dll\obj\Debug\uso dll.pdb

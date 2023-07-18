@@ -1,0 +1,9 @@
+F:\Programacion II\7 afortunado\7 afortunado\bin\Debug\7 afortunado.exe.config
+F:\Programacion II\7 afortunado\7 afortunado\bin\Debug\7 afortunado.exe
+F:\Programacion II\7 afortunado\7 afortunado\bin\Debug\7 afortunado.pdb
+F:\Programacion II\7 afortunado\7 afortunado\obj\Debug\7 afortunado.csprojResolveAssemblyReference.cache
+F:\Programacion II\7 afortunado\7 afortunado\obj\Debug\7 afortunado.exe
+F:\Programacion II\7 afortunado\7 afortunado\obj\Debug\7 afortunado.pdb
+E:\Programacion II\Proyectos\7 afortunado\7 afortunado\bin\Debug\7 afortunado.exe.config
+E:\Programacion II\Proyectos\7 afortunado\7 afortunado\obj\Debug\7 afortunado.exe
+E:\Programacion II\Proyectos\7 afortunado\7 afortunado\obj\Debug\7 afortunado.pdb

@@ -1,0 +1,5 @@
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Tabla de Multiplicar\Tabla de Multiplicar\bin\Debug\Tabla de Multiplicar.exe.config
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Tabla de Multiplicar\Tabla de Multiplicar\bin\Debug\Tabla de Multiplicar.exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Tabla de Multiplicar\Tabla de Multiplicar\bin\Debug\Tabla de Multiplicar.pdb
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Tabla de Multiplicar\Tabla de Multiplicar\obj\Debug\Tabla de Multiplicar.exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Tabla de Multiplicar\Tabla de Multiplicar\obj\Debug\Tabla de Multiplicar.pdb

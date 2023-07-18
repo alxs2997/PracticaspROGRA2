@@ -1,0 +1,5 @@
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Ejercicio Tercera Semana\Ejercicio Tercera Semana\bin\Debug\Ejercicio Tercera Semana.exe.config
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Ejercicio Tercera Semana\Ejercicio Tercera Semana\bin\Debug\Ejercicio Tercera Semana.exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Ejercicio Tercera Semana\Ejercicio Tercera Semana\bin\Debug\Ejercicio Tercera Semana.pdb
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Ejercicio Tercera Semana\Ejercicio Tercera Semana\obj\Debug\Ejercicio Tercera Semana.exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Ejercicio Tercera Semana\Ejercicio Tercera Semana\obj\Debug\Ejercicio Tercera Semana.pdb

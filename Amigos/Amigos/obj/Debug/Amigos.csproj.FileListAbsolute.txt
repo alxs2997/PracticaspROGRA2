@@ -1,0 +1,5 @@
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Amigos\Amigos\bin\Debug\Amigos.exe.config
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Amigos\Amigos\bin\Debug\Amigos.exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Amigos\Amigos\bin\Debug\Amigos.pdb
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Amigos\Amigos\obj\Debug\Amigos.exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Amigos\Amigos\obj\Debug\Amigos.pdb

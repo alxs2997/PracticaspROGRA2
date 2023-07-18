@@ -1,0 +1,6 @@
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Dias de Semana (Array)\Dias de Semana (Array)\bin\Debug\Dias de Semana (Array).exe.config
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Dias de Semana (Array)\Dias de Semana (Array)\obj\Debug\Dias de Semana (Array).csprojResolveAssemblyReference.cache
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Dias de Semana (Array)\Dias de Semana (Array)\bin\Debug\Dias de Semana (Array).exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Dias de Semana (Array)\Dias de Semana (Array)\bin\Debug\Dias de Semana (Array).pdb
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Dias de Semana (Array)\Dias de Semana (Array)\obj\Debug\Dias de Semana (Array).exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Dias de Semana (Array)\Dias de Semana (Array)\obj\Debug\Dias de Semana (Array).pdb

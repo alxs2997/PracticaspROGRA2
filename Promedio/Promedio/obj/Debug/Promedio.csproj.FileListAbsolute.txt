@@ -1,0 +1,29 @@
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Promedio\Promedio\bin\Debug\Promedio.exe.config
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Promedio\Promedio\bin\Debug\Promedio.exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Promedio\Promedio\bin\Debug\Promedio.pdb
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Promedio\Promedio\obj\Debug\Promedio.exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Promedio\Promedio\obj\Debug\Promedio.pdb
+C:\Users\Alumnos\Documents\Visual Studio 2015\Projects\Promedio\Promedio\bin\Debug\Promedio.exe.config
+C:\Users\Alumnos\Documents\Visual Studio 2015\Projects\Promedio\Promedio\obj\Debug\Promedio.exe
+C:\Users\Alumnos\Documents\Visual Studio 2015\Projects\Promedio\Promedio\obj\Debug\Promedio.pdb
+C:\Users\Alumnos\Documents\Visual Studio 2015\Projects\Promedio\Promedio\obj\Debug\Promedio.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos\Documents\Visual Studio 2015\Projects\Promedio\Promedio\bin\Debug\Promedio.exe
+C:\Users\Alumnos\Documents\Visual Studio 2015\Projects\Promedio\Promedio\bin\Debug\Promedio.pdb
+C:\Users\Kelvin Ramos\Documents\Visual Studio 2013\Projects\Promedio\Promedio\bin\Debug\Promedio.exe.config
+C:\Users\Kelvin Ramos\Documents\Visual Studio 2013\Projects\Promedio\Promedio\obj\Debug\Promedio.exe
+C:\Users\Kelvin Ramos\Documents\Visual Studio 2013\Projects\Promedio\Promedio\obj\Debug\Promedio.pdb
+C:\Users\Kelvin Ramos\Documents\Visual Studio 2013\Projects\Promedio\Promedio\bin\Debug\Promedio.exe
+C:\Users\Kelvin Ramos\Documents\Visual Studio 2013\Projects\Promedio\Promedio\bin\Debug\Promedio.pdb
+C:\Users\Kelvin Ramos\Documents\Visual Studio 2013\Projects\Promedio\Promedio\obj\Debug\Promedio.csprojResolveAssemblyReference.cache
+G:\Programacion II\Proyectos\Promedio\Promedio\bin\Debug\Promedio.exe.config
+G:\Programacion II\Proyectos\Promedio\Promedio\obj\Debug\Promedio.exe
+G:\Programacion II\Proyectos\Promedio\Promedio\obj\Debug\Promedio.pdb
+G:\Programacion II\Proyectos\Promedio\Promedio\bin\Debug\Promedio.exe
+G:\Programacion II\Proyectos\Promedio\Promedio\bin\Debug\Promedio.pdb
+G:\Programacion II\Proyectos\Promedio\Promedio\obj\Debug\Promedio.csprojResolveAssemblyReference.cache
+E:\Programacion II\Proyectos\Promedio\Promedio\bin\Debug\Promedio.exe.config
+E:\Programacion II\Proyectos\Promedio\Promedio\obj\Debug\Promedio.exe
+E:\Programacion II\Proyectos\Promedio\Promedio\obj\Debug\Promedio.pdb
+E:\Programacion II\Proyectos\Promedio\Promedio\bin\Debug\Promedio.exe
+E:\Programacion II\Proyectos\Promedio\Promedio\bin\Debug\Promedio.pdb
+E:\Programacion II\Proyectos\Promedio\Promedio\obj\Debug\Promedio.csprojResolveAssemblyReference.cache

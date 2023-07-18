@@ -1,0 +1,5 @@
+c:\users\alumnos\documents\visual studio 2015\Projects\resta dll\resta dll\bin\Debug\resta dll.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\resta dll\resta dll\bin\Debug\resta dll.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\resta dll\resta dll\obj\Debug\restadll.csprojResolveAssemblyReference.cache
+c:\users\alumnos\documents\visual studio 2015\Projects\resta dll\resta dll\obj\Debug\resta dll.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\resta dll\resta dll\obj\Debug\resta dll.pdb

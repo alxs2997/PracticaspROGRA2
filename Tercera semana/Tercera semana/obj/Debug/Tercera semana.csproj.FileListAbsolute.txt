@@ -1,0 +1,6 @@
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Tercera semana\Tercera semana\bin\Debug\Tercera semana.exe.config
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Tercera semana\Tercera semana\bin\Debug\Tercera semana.exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Tercera semana\Tercera semana\bin\Debug\Tercera semana.pdb
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Tercera semana\Tercera semana\obj\Debug\Tercera semana.csprojResolveAssemblyReference.cache
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Tercera semana\Tercera semana\obj\Debug\Tercera semana.exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Tercera semana\Tercera semana\obj\Debug\Tercera semana.pdb

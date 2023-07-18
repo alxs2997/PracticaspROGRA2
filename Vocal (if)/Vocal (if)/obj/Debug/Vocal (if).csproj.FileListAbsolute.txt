@@ -1,0 +1,6 @@
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Vocal (if)\Vocal (if)\bin\Debug\Vocal (if).exe.config
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Vocal (if)\Vocal (if)\obj\Debug\Vocal (if).csprojResolveAssemblyReference.cache
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Vocal (if)\Vocal (if)\bin\Debug\Vocal (if).exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Vocal (if)\Vocal (if)\bin\Debug\Vocal (if).pdb
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Vocal (if)\Vocal (if)\obj\Debug\Vocal (if).exe
+c:\users\alexander ordoñez\documents\visual studio 2015\Projects\Vocal (if)\Vocal (if)\obj\Debug\Vocal (if).pdb
